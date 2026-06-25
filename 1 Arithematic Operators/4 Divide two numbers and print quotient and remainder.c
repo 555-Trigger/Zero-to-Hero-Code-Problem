@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(void)
 {
-    int a, b,c;
+    int a, b,c,d;
     printf("\nEnter the the first number:");
     scanf("%d",&a);
     printf("\nEnter the the second number:");
@@ -10,7 +10,9 @@ int main(void)
     if(b !=0)
     {
         c=a/b;
-        printf("\nThe sum of first and the second numbers are: %d \n",c);
+        printf("\nThe quotient of first and the second numbers are: %d \n",c);
+        d=a%b;
+        printf("\nThe remainder of first and the second numbers are: %d \n",d);
     }
     else
     {
