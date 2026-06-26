@@ -10,8 +10,8 @@ Binary Operators: Binary operators require two operands to execute.
   1. The Nuances of Integer Division. When you divide two integers in C, the result must be an integer. The compiler discards the decimal fraction entirely (truncation toward zero),         rather than rounding to the nearest whole number.
   2. Strict Rules of the Modulus Operator (%)The modulus operator calculates the remainder left over after integer division.
   3. Prefix vs. Postfix Behaviour The increment (++) and decrement (--) operators yield different results depending on their placement relative to the variable:
-     Prefix (++x, --x): The variable is updated first, and then its new value is used in the surrounding expression.
-     Postfix (x++, x--): The current value of the variable is used in the expression first, and the variable is updated afterwards.
+       Prefix (++x, --x): The variable is updated first, and then its new value is used in the surrounding expression.
+       Postfix (x++, x--): The current value of the variable is used in the expression first, and the variable is updated afterwards.
      
 Precedence and Associativity. When multiple operators appear in a single expression, C evaluates them using strict structural hierarchies rather than algebraic BODMAS rules.
     Parentheses (): Have the absolute highest priority. They force the evaluation of nested sub-expressions first.
