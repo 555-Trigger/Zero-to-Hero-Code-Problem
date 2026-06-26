@@ -1,4 +1,4 @@
-//1. Add two numbers and print the sum. (Hint: use + operator)
+//3. Multiply two integers and display the product. (Hint: use * operator)
 #include<stdio.h>
 int main(void)
 {

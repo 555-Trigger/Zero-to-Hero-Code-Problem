@@ -1,4 +1,4 @@
-//1. Add two numbers and print the sum. (Hint: use + operator)
+//4. Divide two numbers and print quotient and remainder. (Hint: use / and %)
 #include<stdio.h>
 int main(void)
 {

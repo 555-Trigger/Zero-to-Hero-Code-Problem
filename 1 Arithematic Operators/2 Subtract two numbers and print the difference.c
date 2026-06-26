@@ -1,4 +1,4 @@
-//1. Add two numbers and print the sum. (Hint: use + operator)
+//2. Subtract two numbers and print the difference. (Hint: use - operator)
 #include<stdio.h>
 int main(void)
 {
