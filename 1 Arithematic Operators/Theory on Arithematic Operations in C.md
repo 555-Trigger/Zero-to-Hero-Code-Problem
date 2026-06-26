@@ -21,7 +21,7 @@ Precedence and Associativity. When multiple operators appear in a single express
     Evaluated with Left-to-Right associativity.
     
 Implicit Type Promotion (Coercion)When performing arithmetic operations on mixed data types, C automatically promotes the smaller data type to prevent precision loss. 
-    This hierarchy dictates the transformation:\(\text{int}\longrightarrow \text{unsigned\ int}\longrightarrow \text{long}\longrightarrow \text{float}\longrightarrow \text{double}\)
+    This hierarchy dictates the transformation: int -> unsigned int-> long -> float -> double
     If you add an int to a float, C implicitly converts the int to a float before running the computation, yielding a float result.
     Note on Character Arithmetic: Characters (char) are internally tracked as integer ASCII values. 
     Therefore, expressions like 'A' + 1 are valid and return 66 (the ASCII value for 'B').
