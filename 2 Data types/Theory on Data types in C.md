@@ -1,4 +1,4 @@
-````md
+
 # Data Types in C
 
 Data types in C specify the **type of data** that a variable can store. They determine:
@@ -701,4 +701,3 @@ Data types are essential in:
 - Type conversion can be **implicit** or **explicit**.
 - Correct format specifiers should always be used with `printf()` and `scanf()`.
 - Choosing the appropriate data type improves memory efficiency, performance, and program correctness.
-````
