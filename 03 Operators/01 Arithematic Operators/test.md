@@ -1,4 +1,3 @@
-
 # Problem 021 – Find Largest Element
 
 ## Difficulty
