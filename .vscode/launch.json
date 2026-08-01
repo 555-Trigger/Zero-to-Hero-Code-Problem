@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/DELL/Downloads/Python_Codes/Zero to Hero Code Problem/Zero-to-Hero-Code-Problem/03 Operators/01 Arithematic Operators",
+      "program": "c:/Users/DELL/Downloads/Python_Codes/Zero to Hero Code Problem/Zero-to-Hero-Code-Problem/03 Operators/01 Arithematic Operators/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
